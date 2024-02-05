@@ -6,6 +6,11 @@ Documentation:
 
 ## Release Notes
 
+### 1.3.1
+- Fix issue with upgrading components
+- Fix issue related to the XPLOR_HOME environment variable
+- Fix issue with GLIBC_2.29 not found
+
 ### 1.3.0
 - Refactor xip with the new format of components (with component.json file)
 - Target Management with xip
